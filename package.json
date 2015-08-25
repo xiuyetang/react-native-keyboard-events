@@ -1,0 +1,17 @@
+{
+  "name": "react-native-keyboard-events",
+  "version": "0.1.0",
+  "description": "react native keyboard events",
+  "main": "KeyboardEvents.ios.js",
+  "author": "",
+  "keywords": [
+  ],
+  "homepage": "https://github.com/feeloc/react-native-keyboard-events",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feeloc/react-native-keyboard-events.git"
+  },
+  "react-native-module": {
+    "podfile": "react-native-keyboard-events.podspec"
+  }
+}
