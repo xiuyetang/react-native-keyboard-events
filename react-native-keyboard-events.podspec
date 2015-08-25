@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.source_files     = 'ios/**/*.{h,m}'
   s.preserve_paths   = "**/*.js"
   s.resources        = []
-  s.prepare_command  = "npm install --production",
+  s.prepare_command  = "npm install --production"
 end
